@@ -41,6 +41,20 @@
             Striking up a conversation with other travelers is extraordinarily easy.</P>    
         </ol>
         
+        <!-- qoute -->
+        <p>"Life is very short and what we have to do must be done in the now" - Audre Lorde</p>
         
+        <!-- Pagination -->
+        <div class ="pagination">
+            <a href ="#">&laquo</a>
+            <a href ="Egypt.html`">Egypt</a>
+            <a href ="#">Ecuador</a>
+            <a href ="#">Cruise</a>
+            <a href ="#">Thailand</a>
+            <a href ="#">China</a>
+            <a href ="#">&raquo</a>
+        </div>
+    
+        &copy; Mokhtar Ali - All Rights Reserved.
     </body>
 </html>
