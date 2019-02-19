@@ -1,16 +1,25 @@
-h5 {
-    text-align: center;
-    color:#000000;
-    text-decoration: none;
-    text-spacing:1px;
-    text-shadow: inherit;
+
+Cloud3 {
+    border:3px;
 }
 
+h4 {
+    background-image: url(Cloud31.JPG);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding:20px;
+    font-family: cursive; 
+    text-align: center;
+    color:#FCFBD7;
+    word-spacing:2px;
+}
+
+
+ol {
+    font-size: medium
+}
 .pagination {
-  
     display: inline-block;
-    
-    
 }
 
 .pagination a {
