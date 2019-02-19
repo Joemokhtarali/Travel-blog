@@ -1,0 +1,13 @@
+
+
+.pagination {
+display: inline-block;
+color: black;
+float: none;
+padding:20px;
+}
+
+.pagination a:hover {
+color:Black;
+background-color: yellow
+}
