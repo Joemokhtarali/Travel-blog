@@ -1,13 +1,26 @@
-
+h5 {
+    text-align: center;
+    color:#000000;
+    text-decoration: none;
+    text-spacing:1px;
+    text-shadow: inherit;
+}
 
 .pagination {
-display: inline-block;
-color: black;
-float: none;
-padding:20px;
+  
+    display: inline-block;
+    
+    
+}
+
+.pagination a {
+    color:Black;
+    float: left;
+    padding:20px;
+    text-align: center;
+    text-decoration: none;
 }
 
 .pagination a:hover {
-color:Black;
-background-color: yellow
+    color:Blue;
 }
